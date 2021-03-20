@@ -1,0 +1,42 @@
+{
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "lrowsxrd gif bot v12",
+  "main": "gif.js",
+  "scripts": {
+    "start": "node gif.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.3.1",
+    "ms": "^2.1.2",
+    "fs": "^0.0.2",
+    "os": "^0.1.1",
+    "moment": "^2.27.0",
+    "moment-duration-format": "^2.2.2",
+    "quick.db": "^7.1.1",
+    "request-promise-native": "^1.0.9",
+    "request": "^2.88.2",
+    "dblapi.js": "^2.4.1",
+    "google-tts-api": "^0.0.4",
+    "ffmpeg": "^0.0.4",
+    "opusscript": "^0.0.7",
+    "megadb": "^3.4.0",
+    "giphy-api": "^2.0.1",
+    "chalk": "^4.1.0",
+    "superagent": "^6.1.0",
+    "common-tags": "^1.8.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
